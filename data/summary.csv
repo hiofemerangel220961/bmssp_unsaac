@@ -1,0 +1,10 @@
+algo,type,n,time_ms_mean,time_ms_p50,time_ms_p95,dist_km_mean,nodes_mean,rss_mb_mean
+bellman_ford,long,50,2494.05,2460.385,3185.471,5.89388,68.36,
+bellman_ford,medium,50,2443.893,2427.782,3325.306,2.51483,36.02,
+bellman_ford,short,50,1996.084,1791.629,4395.877,0.67437,11.24,
+bmssp,long,50,12.041,12.168,18.201,5.89388,68.36,
+bmssp,medium,50,3.919,3.583,7.72,2.51483,36.02,
+bmssp,short,50,0.487,0.415,1.142,0.67437,11.24,
+dijkstra,long,50,28.036,28.811,42.413,5.89388,68.36,
+dijkstra,medium,50,8.641,7.447,19.135,2.51483,36.02,
+dijkstra,short,50,0.738,0.746,1.323,0.67437,11.24,
